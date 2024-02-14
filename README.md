@@ -1,4 +1,4 @@
-#Cartoonise-Video
+Cartoonise-Video
 Project to cartoonise any video with Image processing and Machine Learning
 
 Approaches used :
